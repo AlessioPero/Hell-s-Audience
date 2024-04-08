@@ -1,0 +1,6 @@
+2024/04/08-02:32:24.596 674c Creating DB F:/FORK/Hell-s-Audience/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/04/08-02:32:24.852 674c Reusing MANIFEST F:/FORK/Hell-s-Audience/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/08-03:27:56.483 5f44 Level-0 table #5: started
+2024/04/08-03:27:56.602 5f44 Level-0 table #5: 1167 bytes OK
+2024/04/08-03:27:56.650 5f44 Delete type=0 #3
+2024/04/08-03:27:56.651 5f44 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
