@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Fork/Hell-s-Audience/Content/Player/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Fork/Hell-s-Audience/Content/Enemies/Mannequin/Base/BP_BaseEnemy.uasset",
 				"C:/Users/Vernox/Hell-s-Audience/Content/GameUI/InGameHUD.uasset",
 				"C:/Users/Vernox/Hell-s-Audience/Content/GameUI/PlayerInGameHUD.uasset",
 				"C:/Users/Vernox/Hell-s-Audience/Content/Shotgun/lambert1.uasset",
@@ -3534,7 +3536,6 @@
 				"E:/Engine Projects/UE Projects/Hell-s-Audience/Content/Enemies/Mannequin/Ranged/BT_MeleeEnemy.uasset",
 				"E:/Engine Projects/UE Projects/Hell-s-Audience/Content/__ExternalActors__/Player/FirstPerson/Maps/FirstPersonMap/5/3P/IDU79T3EYR2COG64LYKYOE.uasset",
 				"D:/Fork/Hell-s-Audience/Content/Enemies/Mannequin/Blueprints/BP_PlaceHolderEnemy.uasset",
-				"D:/Fork/Hell-s-Audience/Content/Player/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"F:/FORK/Hell-s-Audience/Content/WesterTown/Models/Nature/Cave/SM_Cave_Block_1_FoliageType.uasset",
 				"F:/FORK/Hell-s-Audience/Content/WesterTown/Models/Nature/Cave/SM_Cave_Block_3_FoliageType.uasset",
 				"F:/FORK/Hell-s-Audience/Content/WesterTown/Models/Nature/Cave/SM_Cave_Block_2_FoliageType.uasset",
