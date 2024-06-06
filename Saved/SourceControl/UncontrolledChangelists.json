@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Fork/Hell-s-Audience/Content/Player/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Fork/Hell-s-Audience/Content/Enemies/Mannequin/Base/BP_BaseEnemy.uasset",
+				"D:/Fork/Hell-s-Audience/Content/DestructibleWall/BP_DestructibileWall.uasset",
 				"C:/Users/Vernox/Hell-s-Audience/Content/GameUI/InGameHUD.uasset",
 				"C:/Users/Vernox/Hell-s-Audience/Content/GameUI/PlayerInGameHUD.uasset",
 				"C:/Users/Vernox/Hell-s-Audience/Content/Shotgun/lambert1.uasset",
@@ -59,8 +62,6 @@
 				"C:/Users/Vernox/Hell-s-Audience/Content/__ExternalActors__/Player/FirstPerson/Maps/FirstPersonMap/E/3J/E3F9IMZPDQ0AN6YMNB3AVY.uasset",
 				"C:/Users/Vernox/Hell-s-Audience/Content/__ExternalActors__/Player/FirstPerson/Maps/FirstPersonMap/E/U9/KQQQ27PLPTX2L3FW5WOXHS.uasset",
 				"C:/Users/Vernox/Hell-s-Audience/Content/__ExternalActors__/Player/FirstPerson/Maps/FirstPersonMap/8/5G/P1DRPQR8YQ4PFD9H4W1NRV.uasset",
-				"D:/Fork/Hell-s-Audience/Content/Player/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"D:/Fork/Hell-s-Audience/Content/Enemies/Mannequin/Base/BP_BaseEnemy.uasset",
 				"C:/Users/Vernox/Hell-s-Audience/Content/Enemies/Mannequin/BT_Mannequin.uasset",
 				"C:/Users/mario/Documents/Unreal Projects/HellsAudience/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/mario/Documents/GitHub/Hell-s-Audience/Content/__ExternalObjects__/Levels/HA_livello1/HA_Livello_1/4/OM/DJONODF7KDZ0U8UYPR5UXM.uasset",
