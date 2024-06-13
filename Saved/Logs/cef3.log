@@ -1,1 +1,10 @@
-[0412/192821.601:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0613/163100.502:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0613/163101.057:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0613/163101.321:WARNING:storage_block-inl.h(146)] Failed data load.
+[0613/163101.321:WARNING:storage_block-inl.h(146)] Failed data load.
+[0613/163101.322:WARNING:storage_block-inl.h(146)] Failed data load.
+[0613/163101.324:WARNING:storage_block-inl.h(146)] Failed data load.
+[0613/163101.325:ERROR:entry_impl.cc(998)] Failed to save user data
+[0613/163101.325:ERROR:entry_impl.cc(998)] Failed to save user data
+[0613/163105.166:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0613/163300.662:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled

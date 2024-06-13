@@ -1,3 +1,2 @@
-2024/04/12-19:26:21.510 63e8 Reusing MANIFEST F:/FORK/Hell-s-Audience/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/04/12-19:26:21.511 63e8 Recovering log #3
-2024/04/12-19:26:21.536 63e8 Reusing old log F:/FORK/Hell-s-Audience/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/06/13-16:31:00.699 13b8 Creating DB C:/Users/mario/Documents/GitHub/Hell-s-Audience/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2024/06/13-16:31:00.717 13b8 Reusing MANIFEST C:/Users/mario/Documents/GitHub/Hell-s-Audience/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
